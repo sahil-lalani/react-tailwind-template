@@ -11,9 +11,6 @@ node_modules
 dist
 dist-ssr
 *.local
-.firebase
-firebase.json
-.firebaserc
 
 # Editor directories and files
 .vscode/*
@@ -25,6 +22,3 @@ firebase.json
 *.njsproj
 *.sln
 *.sw?
-
-app.py
-linkedin_profile*
